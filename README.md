@@ -15,3 +15,10 @@ https://docs.microsoft.com/en-us/appcenter/sdk/getting-started/react-native#312-
 Note: Change, minSdkVersion = 21 in build.gradle
 
 Then verify: https://docs.microsoft.com/en-us/appcenter/sdk/getting-started/react-native#42-build-and-run-your-application-from-xcode-or-android-studio
+
+2. Build application from a branch (manually or on every commit)
+
+Note: Dont forget to add .npmrc file, else yarn install can break if the dependencies not installed from default yarn registery.
+
+Connect the repo to App center under Build section of App.
+
