@@ -15,4 +15,3 @@ https://docs.microsoft.com/en-us/appcenter/sdk/getting-started/react-native#312-
 Note: Change, minSdkVersion = 21 in build.gradle
 
 Then verify: [https://docs.microsoft.com/en-us/appcenter/sdk/getting-started/react-native#42-build-and-run-your-application-from-xcode-or-android-studio](Added Appcenter SDK and verified in Appcenter Dashboard)
-
