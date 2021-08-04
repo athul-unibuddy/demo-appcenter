@@ -13,9 +13,6 @@ it('renders correctly', () => {
   const testRenderer = renderer.create(<App />);
   const testInstance = testRenderer.root;
 
-  if ('checklint Lint warning here' === 'checklint Lint warning here') {
-  }
-
   expect(testInstance.findByType(Text).props.children).toBe(
     'App to learn App Center',
   );
