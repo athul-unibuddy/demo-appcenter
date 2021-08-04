@@ -17,6 +17,6 @@ it('renders correctly', () => {
   // }
 
   expect(testInstance.findByType(Text).props.children).toBe(
-    'App to learn App Center',
+    'App to learn App Center fail this test',
   );
 });
