@@ -23,7 +23,7 @@ function App() {
       <SafeAreaView />
       <StatusBar barStyle={isDarkMode ? 'light-content' : 'dark-content'} />
       <View style={styles.backgroundView}>
-        <Text> App to learn App Center </Text>
+        <Text>App to learn App Center</Text>
       </View>
     </>
   );
