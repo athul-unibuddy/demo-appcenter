@@ -1,3 +1,4 @@
-#FAIL the pipeline if either of this fails.
+#!/usr/bin/env bash
+
 yarn test
 yarn lint
